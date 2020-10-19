@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mi Agenda</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">agregar contacto</string>
+    <string name="guardar">Guardar</string>
+    <string name="titulo2">AGREGAR CONTACTO</string>
+
+    <string name="hello_first_fragment">AGENDA TELEFÓNICA</string>
+    <string name="hello_second_fragment">INGRESAR UN CONTACTO</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu contraseña?</string>
+    <string name="registrarme_como_usuario">Registrar Usuario</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="ingresa_tu_correo">Correo electrónico</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="empresa_o_actividad">Empresa o Actividad</string>
+    <string name="volver_a_la_agenda">Volver a la Agenda</string>
+    <string name="llamar">Llamar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv1">TextView</string>
+    <string name="tv2">TextView</string>
+    <string name="tv3">TextView</string>
+    <string name="tv4">TextView</string>
+    <string name="tv5">TextView</string>
+    <string name="tv6">TextView</string>
+    <string name="tv7">TextView</string>
+    <string name="logocover">logo</string>
+</resources>
